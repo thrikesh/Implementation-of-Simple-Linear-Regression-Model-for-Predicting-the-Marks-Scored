@@ -68,7 +68,8 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](ml ex2(a).png)
+![ml ex2(a)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/3ac0875e-41dd-4357-bbb3-08dd596cf525)
+
 
 
 ## Result:
