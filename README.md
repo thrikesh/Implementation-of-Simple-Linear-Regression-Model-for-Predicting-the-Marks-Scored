@@ -75,7 +75,7 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-df.head()
+df.head();
 ![ml ex2(a)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/3ac0875e-41dd-4357-bbb3-08dd596cf525)
 df.tail()
 ![ml ex2(b)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/665f1e40-7ae3-4000-8daa-c61992b5d538)
