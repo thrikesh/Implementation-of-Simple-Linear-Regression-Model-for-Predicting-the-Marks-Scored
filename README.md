@@ -75,43 +75,23 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-df.head()
-<br>
-![ml ex2(a)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/3ac0875e-41dd-4357-bbb3-08dd596cf525)
-<br>
-df.tail()
-<br>
-![ml ex2(b)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/665f1e40-7ae3-4000-8daa-c61992b5d538)
-<br>
-Array value of X<
-<br>
-![ml ex2(c)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/6eedca23-f1d6-47c7-a0fb-a12765c0b94f)
-<br>
-Array value of Y
-<br>
-![ml ex2(d)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/79fac52f-b0d1-4858-b37f-a623d6158448)
-<br>
-values of Y prediction
-<br>
-![ml ex2(e)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/f54bdec7-1f30-4736-aa0b-5784ca486316)
-<br>
-Array value of Y test
-<br>
-![ml ex2(f)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/2b9a48ae-5afb-4232-9fd4-e23964426dfe)
-<br>
-Training set Graph
-<br>
-![ml ex2(g)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/c26f5d3c-459a-44d8-8bb8-69a2da30f73d)
-<br>
-Test set Graph
-<br>
-![ml ex(i)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/8472f819-cdfd-49c1-8ae4-fad62015e919)
-<br>
-Values of MSE,MAE and RMSE
-<br>
-![ml ex(h)](https://github.com/thrikesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119576222/0ce028e7-7bc9-47d8-a3b0-7037457e175f)
-<br>
+Screenshot 2023-08-24 090723
 
+Screenshot 2023-08-24 090808
+
+Screenshot 2023-08-24 090845
+
+Screenshot 2023-08-24 090917
+
+Screenshot 2023-08-24 090950
+
+Screenshot 2023-08-24 091230
+
+Screenshot 2023-08-24 091301
+
+Screenshot 2023-08-24 091337
+
+Screenshot 2023-08-24 093517
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
